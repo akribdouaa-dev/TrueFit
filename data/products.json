@@ -1,0 +1,12 @@
+[
+    {"name": "Lben", "calories": 40, "protein": 3.5, "carbs": 4.8, "fats": 0.9},
+    {"name": "Fromage Beida", "calories": 98, "protein": 6.0, "carbs": 0.5, "fats": 8.0},
+    {"name": "Khobz Dar", "calories": 265, "protein": 8.0, "carbs": 52.0, "fats": 2.5},
+    {"name": "Garantita", "calories": 180, "protein": 7.0, "carbs": 22.0, "fats": 7.0},
+    {"name": "Rechta", "calories": 350, "protein": 12.0, "carbs": 60.0, "fats": 6.0},
+    {"name": "Couscous", "calories": 355, "protein": 12.0, "carbs": 72.0, "fats": 2.0},
+    {"name": "Merguez", "calories": 280, "protein": 14.0, "carbs": 1.0, "fats": 24.0},
+    {"name": "Batata Mchermla", "calories": 150, "protein": 3.0, "carbs": 28.0, "fats": 4.0},
+    {"name": "Zgougou", "calories": 520, "protein": 10.0, "carbs": 28.0, "fats": 42.0},
+    {"name": "Tchicha", "calories": 340, "protein": 11.0, "carbs": 68.0, "fats": 2.0}
+]

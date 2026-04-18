@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Push Up",
+        "muscle": "Chest & Triceps",
+        "description": "Start in plank position, lower your chest to the floor, then push back up. Keep your core tight throughout.",
+        "difficulty": "Beginner",
+        "equipment": "None"
+    },
+    {
+        "name": "Squat",
+        "muscle": "Legs & Glutes",
+        "description": "Stand with feet shoulder-width apart, lower your hips until thighs are parallel to the floor, then stand back up.",
+        "difficulty": "Beginner",
+        "equipment": "None"
+    },
+    {
+        "name": "Plank",
+        "muscle": "Core",
+        "description": "Hold a push-up position with arms straight. Keep your body in a straight line from head to heels.",
+        "difficulty": "Beginner",
+        "equipment": "None"
+    },
+    {
+        "name": "Pull Up",
+        "muscle": "Back & Biceps",
+        "description": "Hang from a bar with palms facing away, pull yourself up until your chin is above the bar, then lower slowly.",
+        "difficulty": "Intermediate",
+        "equipment": "Pull-up bar"
+    },
+    {
+        "name": "Lunges",
+        "muscle": "Legs & Glutes",
+        "description": "Step forward with one leg, lower your hips until both knees are at 90 degrees, then return to start.",
+        "difficulty": "Beginner",
+        "equipment": "None"
+    },
+    {
+        "name": "Dumbbell Curl",
+        "muscle": "Biceps",
+        "description": "Hold dumbbells at your sides, curl them up toward your shoulders while keeping elbows close to your body.",
+        "difficulty": "Beginner",
+        "equipment": "Dumbbells"
+    },
+    {
+        "name": "Deadlift",
+        "muscle": "Back & Legs",
+        "description": "Stand with feet hip-width apart, hinge at hips to grab the bar, then drive through your heels to stand up straight.",
+        "difficulty": "Advanced",
+        "equipment": "Barbell"
+    },
+    {
+        "name": "Shoulder Press",
+        "muscle": "Shoulders",
+        "description": "Hold dumbbells at shoulder height, press them straight up overhead until arms are fully extended, then lower slowly.",
+        "difficulty": "Intermediate",
+        "equipment": "Dumbbells"
+    }
+]
